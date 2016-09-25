@@ -23,9 +23,9 @@
  * "/arduino/custom/ledon"		-> Turn ON the LED 13
  * "/arduino/custom/ledoff"		-> Turn OFF the LED 13
  * "/arduino/custom/servo:3/value:73"	-> Moves the servo to the pin 3 at 73 degrees
- * "/arduino/custom/sayciao"		-> Run the function sayciao(). The Braccio say "Ciao" with the gripper
- * "/arduino/custom/takesponge"		-> Run the function takesponge(). The Braccio take the big sponge you can find in the its box
- * "/arduino/custom/showsponge"		-> Run the function showsponge(). The Braccio show the sponge to the user
+ * "/arduino/custom/sayciao"		-> Run the function sayciao(). The Braccio says "Ciao" with the gripper
+ * "/arduino/custom/takesponge"		-> Run the function takesponge(). The Braccio take the big sponge you can find in its box
+ * "/arduino/custom/showsponge"		-> Run the function showsponge(). The Braccio shows the sponge to the user
  * "/arduino/custom/throwsponge"	-> Run the function throwsponge(). The Braccio throw away the sponge
 
  This example code is part of the public domain
